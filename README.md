@@ -20,3 +20,9 @@ add any of those symbols before your msg to color it
 ex:
 
 ![image](https://user-images.githubusercontent.com/88116907/197259597-a26989cf-a533-4b44-9486-e09544d2fa5a.png)
+
+TODO:
+Make it command based
+Add chat name coloring
+Add tab name coloring
+Add player coloring
