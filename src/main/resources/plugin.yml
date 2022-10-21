@@ -1,0 +1,7 @@
+name: Crayon
+version: '${project.version}'
+main: nyaann.crayon.Crayon
+api-version: 1.19
+prefix: [ Crayon ]
+authors: [ Nyaann ]
+description: COLORS FOR EVERYTHING!!!!
